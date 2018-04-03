@@ -1,9 +1,12 @@
+import iotraining.filemanager.FileManager;
 import org.junit.AfterClass;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
 import java.io.File;
 import java.io.IOException;
+
+import static org.junit.Assert.assertEquals;
 
 public class FileManagerTest {
     private static final String TESTING_DIR_PATH = "./testDir/";
@@ -50,16 +53,16 @@ public class FileManagerTest {
 
     @Test
     public void testFileCalculation() {
-
+        assertEquals(375, FileManager.calculateFiles(TESTING_DIR_PATH));
     }
 
     @Test
     public void testDirCalculation() {
-
+        assertEquals(405, FileManager.calculateDirs(TESTING_DIR_PATH));
     }
 
-    @Test/*(expected = IllegalArgumentException.class)*/
+    @Test(expected = IllegalArgumentException.class)
     public void testNotExistingDir() {
-
+        FileManager.calculateDirs("./NotExistingDir");
     }
 }

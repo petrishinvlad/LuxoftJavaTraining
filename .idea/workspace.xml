@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="259f8535-ce9f-4f66-8fa4-0e3e27713e88" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/LuxoftJavaTraining.iml" afterPath="$PROJECT_DIR$/LuxoftJavaTraining.iml" />
       <change beforePath="$PROJECT_DIR$/src/test/java/FileManagerTest.java" afterPath="$PROJECT_DIR$/src/test/java/FileManagerTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -43,12 +39,18 @@
       <file leaf-file-name="FileManagerTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/FileManagerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="86" lean-forward="false" selection-start-line="26" selection-start-column="86" selection-end-line="26" selection-end-column="86" />
+            <state relative-caret-position="113">
+              <caret line="40" column="8" lean-forward="false" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1316#1317#0" expanded="true" />
-                <element signature="e#1369#1370#0" expanded="true" />
+                <element signature="e#1405#1406#0" expanded="true" />
+                <element signature="e#1458#1459#0" expanded="true" />
+                <element signature="e#1750#1751#0" expanded="true" />
+                <element signature="e#1829#1830#0" expanded="true" />
+                <element signature="e#1879#1880#0" expanded="true" />
+                <element signature="e#1957#1958#0" expanded="true" />
+                <element signature="e#2050#2051#0" expanded="true" />
+                <element signature="e#2111#2112#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -321,32 +323,11 @@
       <option name="presentableId" value="Default" />
       <updated>1522496133375</updated>
       <workItem from="1522496137839" duration="293000" />
-      <workItem from="1522745849473" duration="3000000" />
+      <workItem from="1522745849473" duration="3452000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FileManagerTest - 2018.04.03 at 12h 27m 44s.xml">
-      <configuration name="FileManagerTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FileManagerTest - 2018.04.03 at 12h 28m 36s.xml">
-      <configuration name="FileManagerTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FileManagerTest - 2018.04.03 at 12h 28m 45s.xml">
-      <configuration name="FileManagerTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FileManagerTest - 2018.04.03 at 12h 30m 43s.xml">
-      <configuration name="FileManagerTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FileManagerTest - 2018.04.03 at 12h 32m 37s.xml">
-      <configuration name="FileManagerTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FileManagerTest - 2018.04.03 at 12h 33m 36s.xml">
-      <configuration name="FileManagerTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FileManagerTest - 2018.04.03 at 12h 35m 09s.xml">
-      <configuration name="FileManagerTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="FileManagerTest - 2018.04.03 at 12h 35m 36s.xml">
       <configuration name="FileManagerTest" configurationId="JUnit" />
     </history-entry>
@@ -356,9 +337,30 @@
     <history-entry file="FileManagerTest - 2018.04.03 at 12h 43m 20s.xml">
       <configuration name="FileManagerTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="FileManagerTest - 2018.04.03 at 12h 52m 52s.xml">
+      <configuration name="FileManagerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FileManagerTest - 2018.04.03 at 12h 53m 45s.xml">
+      <configuration name="FileManagerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FileManagerTest - 2018.04.03 at 12h 53m 58s.xml">
+      <configuration name="FileManagerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FileManagerTest - 2018.04.03 at 12h 54m 11s.xml">
+      <configuration name="FileManagerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FileManagerTest - 2018.04.03 at 12h 54m 54s.xml">
+      <configuration name="FileManagerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FileManagerTest - 2018.04.03 at 12h 56m 04s.xml">
+      <configuration name="FileManagerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FileManagerTest - 2018.04.03 at 12h 56m 44s.xml">
+      <configuration name="FileManagerTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3293000" />
+    <option name="totallyTimeSpent" value="3745000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -383,10 +385,10 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Learn" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Log Manager" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -472,12 +474,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/FileManagerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="86" lean-forward="false" selection-start-line="26" selection-start-column="86" selection-end-line="26" selection-end-column="86" />
+        <state relative-caret-position="113">
+          <caret line="40" column="8" lean-forward="false" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1316#1317#0" expanded="true" />
-            <element signature="e#1369#1370#0" expanded="true" />
+            <element signature="e#1405#1406#0" expanded="true" />
+            <element signature="e#1458#1459#0" expanded="true" />
+            <element signature="e#1750#1751#0" expanded="true" />
+            <element signature="e#1829#1830#0" expanded="true" />
+            <element signature="e#1879#1880#0" expanded="true" />
+            <element signature="e#1957#1958#0" expanded="true" />
+            <element signature="e#2050#2051#0" expanded="true" />
+            <element signature="e#2111#2112#0" expanded="true" />
           </folding>
         </state>
       </provider>
