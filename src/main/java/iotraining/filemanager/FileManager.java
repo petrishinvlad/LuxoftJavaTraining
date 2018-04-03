@@ -11,7 +11,7 @@ public class FileManager {
         return calcFiles(path, FileType.DIRECTORY);
     }
 
-    public static int calcFiles(String path, FileType fileType) {
+    private static int calcFiles(String path, FileType fileType) {
         int count = 0;
 
         File file = new File(path);
