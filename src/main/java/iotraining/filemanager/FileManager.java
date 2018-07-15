@@ -1,11 +1,13 @@
 package iotraining.filemanager;
 
+
 import java.io.*;
 
 public class FileManager {
     public static int calculateFiles(String path) {
         return calcFiles(path, FileType.FILE);
     }
+    Object
 
     public static int calculateDirs(String path) {
         return calcFiles(path, FileType.DIRECTORY);
